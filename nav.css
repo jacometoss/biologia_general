@@ -1,4 +1,4 @@
-body{max-width:100%;margin:0 auto;background:#FFF;padding:10px 0 0 0}
+body{max-width:1280px;margin:0 auto;background:#FFF;padding:10px 0 0 0}
 #lbOverlay{background:#f3f3f3}
 #content{width:100%;margin:0 auto 10px auto;text-align:left;position:relative;padding-bottom:21px;background:#fff url(_cedec_left_column.gif) repeat-y 0 0}
 body.no-nav,.no-nav #content{background:#fff}
